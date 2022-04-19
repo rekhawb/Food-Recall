@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Inconsolata", sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  font-size: 62.5%;
+  text-align: center;
+  background-color: white;
+  font-size: large;
+}
+
+.recallFirm:hover {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+.hide {
+  display: none;
+}
+
+.fntBold {
+  font-weight: bold;
+}
+
+#mapHoverInfo {
+  font-size: 1rem;
+}
+
+#modalDisclaimer {
+  display: none;
+}
